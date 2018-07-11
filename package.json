@@ -1,0 +1,22 @@
+{
+  "name": "sample-project-web",
+  "version": "0.1.0",
+  "description": "",
+  "main": "dist/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bteixeira/sample-project-web.git"
+  },
+  "author": "Bruno Teixeira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bteixeira/sample-project-web/issues"
+  },
+  "homepage": "https://github.com/bteixeira/sample-project-web#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
